@@ -1,0 +1,21 @@
+product_id,name,category,price
+1,Notebook Dell,Informática,1500
+2,iPhone,Eletrônicos,3000
+3,Monitor LG,Informática,600
+4,Teclado Logitech,Acessórios,200
+5,Mouse Microsoft,Acessórios,100
+6,Impressora HP,Informática,800
+7,Tablet Samsung,Eletrônicos,1200
+8,Headset JBL,Acessórios,300
+9,Câmera Canon,Eletrônicos,2500
+10,Smartwatch Apple,Eletrônicos,3500
+11,Roteador TP-Link,Informática,150
+12,Pendrive Kingston,Acessórios,50
+13,HD Externo Seagate,Informática,400
+14,SSD Kingston,Informática,500
+15,Memória RAM Corsair,Informática,250
+16,Placa de Vídeo NVIDIA,Informática,2000
+17,Processador Intel,Informática,1500
+18,Fonte Corsair,Acessórios,400
+19,Gabinete Cooler Master,Acessórios,600
+20,Ventoinha Noctua,Acessórios,100
