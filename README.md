@@ -10,6 +10,7 @@ Este projeto consiste em um case de desenvolvimento focado na análise de vendas
 ## Estrutura do Repositório 🏗️
 * Notebook/
   * Case_C&A.ipynb: Contém as análises propostas no case realizadas em Python e incuido também visualizações gráficas utilizando bibliotecas 'matplotlib' e 'seaborn'.
+  * Arquivos: Projeto contém os arquivos em csv `contabil.csv`, `customers.csv`, `products.csv` e `transactions.csv`, caso queiro clonar projeto.
     
 * SQL/
   *  total_vendas_categoria_produto.sql: Calcula o total de vendas por categoria de produto.
