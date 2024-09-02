@@ -1,8 +1,8 @@
 -- Identificar transações que foram estornadas e garantir que os estornos estejam corretamente registrados.
 SELECT 
-	transaction_id, 
-	customer_id, 
-	product_id,
+	a.transaction_id, 
+	a.customer_id, 
+	a.product_id,
     a.transaction_id, 
     a.amount AS amount_transaction,
     ABS(b.amount) AS amount_contabil_estorno,
